@@ -1,0 +1,9 @@
+body {
+  background: #ccc;
+  color: #FFF;
+}
+
+.current {
+  color: red;
+  font-weight: bold;
+}
